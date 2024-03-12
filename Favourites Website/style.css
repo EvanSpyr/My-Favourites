@@ -1,0 +1,48 @@
+html {
+  background-color: brown;
+}
+
+body {
+  background-color: white;
+  border: solid 5px;
+  border-radius: 25px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 100px 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h1,
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  letter-spacing: 2px;
+}
+
+h1 {
+  text-decoration: underline crimson;
+}
+
+.center {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.padding-top {
+  padding-top: 20px;
+}
+
+img {
+  border: solid black;
+  border-radius: 15px;
+}
+
+a {
+  color: navy;
+  text-decoration: underline;
+}
+
+a:hover {
+  font-weight: bold;
+}
